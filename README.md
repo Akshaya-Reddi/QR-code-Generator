@@ -1,10 +1,10 @@
 # QR-code-Generator
 A python script which can generate QR code with a link
 
-# Important note
+## Important note
 You can call your file any name except qrcode.py. This is because qrcode.py is a file that already exists as part of the qrcode library that we will use, and calling your file that will overwrite the library functions.
 
-# Explanation
+## Explanation
 1.The qrcode library: This library lets us perform all of our QR code related operations.
 
 2.The pillow library: This library helps us process and save images.
@@ -15,5 +15,5 @@ You can call your file any name except qrcode.py. This is because qrcode.py is a
 
 5.The border parameter controls how many boxes thick the border should be.
 
-# Final Output
+## Final Output
 At last you should see the youtube_qr.png image pop up on the left-hand side of VS Code, and you can open it to see what it looks like. I also uploaded the qr code in this repository.
