@@ -12,4 +12,4 @@ You can call your file any name except qrcode.py. This is because qrcode.py is a
 5.The border parameter controls how many boxes thick the border should be.
 
 # Final Output
-At last you should see the youtube_qr.png image pop up on the left-hand side of VS Code, and you can open it to see what it looks like.
+At last you should see the youtube_qr.png image pop up on the left-hand side of VS Code, and you can open it to see what it looks like. I also uploaded the qr code in this repository.
